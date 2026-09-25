@@ -1,0 +1,202 @@
+[
+ {
+  "id": "alienista",
+  "titulo": "O Alienista",
+  "autor": "Machado de Assis",
+  "ano": 1882,
+  "tipo": "Novela",
+  "caps": 13,
+  "palavras": 16870,
+  "fonte": "https://pt.wikisource.org/wiki/O_Alienista"
+ },
+ {
+  "id": "pai-contra-mae",
+  "titulo": "Pai contra mãe",
+  "autor": "Machado de Assis",
+  "ano": 1906,
+  "tipo": "Conto",
+  "caps": 1,
+  "palavras": 3886,
+  "fonte": "https://pt.wikisource.org/wiki/Pai_contra_mãe"
+ },
+ {
+  "id": "cartomante",
+  "titulo": "A Cartomante",
+  "autor": "Machado de Assis",
+  "ano": 1884,
+  "tipo": "Conto",
+  "caps": 1,
+  "palavras": 3139,
+  "fonte": "https://pt.wikisource.org/wiki/A_Cartomante"
+ },
+ {
+  "id": "missa-do-galo",
+  "titulo": "Missa do Galo",
+  "autor": "Machado de Assis",
+  "ano": 1894,
+  "tipo": "Conto",
+  "caps": 1,
+  "palavras": 2522,
+  "fonte": "https://pt.wikisource.org/wiki/Missa_do_galo"
+ },
+ {
+  "id": "enfermeiro",
+  "titulo": "O Enfermeiro",
+  "autor": "Machado de Assis",
+  "ano": 1896,
+  "tipo": "Conto",
+  "caps": 1,
+  "palavras": 3095,
+  "fonte": "https://pt.wikisource.org/wiki/O_Enfermeiro"
+ },
+ {
+  "id": "medalhao",
+  "titulo": "Teoria do Medalhão",
+  "autor": "Machado de Assis",
+  "ano": 1881,
+  "tipo": "Conto",
+  "caps": 1,
+  "palavras": 2965,
+  "fonte": "https://pt.wikisource.org/wiki/Teoria_do_medalhão"
+ },
+ {
+  "id": "dom-casmurro",
+  "titulo": "Dom Casmurro",
+  "autor": "Machado de Assis",
+  "ano": 1899,
+  "tipo": "Romance",
+  "caps": 137,
+  "palavras": 62734,
+  "fonte": "https://pt.wikisource.org/wiki/Dom_Casmurro"
+ },
+ {
+  "id": "bras-cubas",
+  "titulo": "Memórias Póstumas de Brás Cubas",
+  "autor": "Machado de Assis",
+  "ano": 1881,
+  "tipo": "Romance",
+  "caps": 151,
+  "palavras": 58771,
+  "fonte": "https://pt.wikisource.org/wiki/Memórias_Póstumas_de_Brás_Cubas"
+ },
+ {
+  "id": "cortico",
+  "titulo": "O Cortiço",
+  "autor": "Aluísio Azevedo",
+  "ano": 1890,
+  "tipo": "Romance",
+  "caps": 21,
+  "palavras": 72105,
+  "fonte": "https://pt.wikisource.org/wiki/O_Cortiço"
+ },
+ {
+  "id": "policarpo",
+  "titulo": "Triste Fim de Policarpo Quaresma",
+  "autor": "Lima Barreto",
+  "ano": 1915,
+  "tipo": "Romance",
+  "caps": 15,
+  "palavras": 66738,
+  "fonte": "https://pt.wikisource.org/wiki/Triste_Fim_de_Policarpo_Quaresma"
+ },
+ {
+  "id": "macunaima",
+  "titulo": "Macunaíma",
+  "autor": "Mário de Andrade",
+  "ano": 1928,
+  "tipo": "Romance",
+  "caps": 17,
+  "palavras": 39650,
+  "fonte": "https://pt.wikisource.org/wiki/Macunaíma/1928"
+ },
+ {
+  "id": "urupes",
+  "titulo": "Urupês (artigo)",
+  "autor": "Monteiro Lobato",
+  "ano": 1914,
+  "tipo": "Artigo",
+  "caps": 1,
+  "palavras": 3639,
+  "fonte": "https://pt.wikisource.org/wiki/Urupês_(5ª_edição)/Urupês"
+ },
+ {
+  "id": "juca-pirama",
+  "titulo": "I-Juca-Pirama",
+  "autor": "Gonçalves Dias",
+  "ano": 1851,
+  "tipo": "Poema",
+  "caps": 10,
+  "palavras": 2298,
+  "fonte": "https://pt.wikisource.org/wiki/I-Juca-Pirama"
+ },
+ {
+  "id": "navio-negreiro",
+  "titulo": "O Navio Negreiro",
+  "autor": "Castro Alves",
+  "ano": 1869,
+  "tipo": "Poema",
+  "caps": 1,
+  "palavras": 1333,
+  "fonte": "https://pt.wikisource.org/wiki/O_Navio_Negreiro"
+ },
+ {
+  "id": "cancao-exilio",
+  "titulo": "Canção do Exílio",
+  "autor": "Gonçalves Dias",
+  "ano": 1843,
+  "tipo": "Poema",
+  "caps": 1,
+  "palavras": 195,
+  "fonte": "https://pt.wikisource.org/wiki/Canção_do_Exílio_(Gonçalves_Dias)"
+ },
+ {
+  "id": "se-eu-morresse",
+  "titulo": "Se eu morresse amanhã",
+  "autor": "Álvares de Azevedo",
+  "ano": 1853,
+  "tipo": "Poema",
+  "caps": 1,
+  "palavras": 115,
+  "fonte": "https://pt.wikisource.org/wiki/Se_eu_morresse_amanhã"
+ },
+ {
+  "id": "via-lactea",
+  "titulo": "Via Láctea",
+  "autor": "Olavo Bilac",
+  "ano": 1888,
+  "tipo": "Sonetos",
+  "caps": 1,
+  "palavras": 3246,
+  "fonte": "https://pt.wikisource.org/wiki/Via_Láctea"
+ },
+ {
+  "id": "antifona",
+  "titulo": "Antífona",
+  "autor": "Cruz e Sousa",
+  "ano": 1893,
+  "tipo": "Poema",
+  "caps": 1,
+  "palavras": 244,
+  "fonte": "https://pt.wikisource.org/wiki/Antífona_(Cruz_e_Sousa)"
+ },
+ {
+  "id": "versos-intimos",
+  "titulo": "Versos Íntimos",
+  "autor": "Augusto dos Anjos",
+  "ano": 1912,
+  "tipo": "Poema",
+  "caps": 1,
+  "palavras": 113,
+  "fonte": "https://pt.wikisource.org/wiki/Eu_(Augusto_dos_Anjos,_1912)/Versos_intimos"
+ },
+ {
+  "id": "psicologia-vencido",
+  "titulo": "Psicologia de um Vencido",
+  "autor": "Augusto dos Anjos",
+  "ano": 1912,
+  "tipo": "Poema",
+  "caps": 1,
+  "palavras": 115,
+  "fonte": "https://pt.wikisource.org/wiki/Eu_(Augusto_dos_Anjos,_1912)/Psychologia_de_um_Vencido"
+ }
+]
